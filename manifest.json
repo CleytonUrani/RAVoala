@@ -1,0 +1,14 @@
+{
+  "short_name": "RAVoala",
+  "name": "Realidade Aumentada - Voala, com A-Frame",
+  "icons": [
+    {
+      "src": "logo_voala.svg",
+      "type": "img/svg",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "index.html?launcher=true",
+  "display": "standalone",
+  "theme_color": "#2196F3"
+}
